@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoListItem.vue teste de snapshot 1`] = `
+<div class="list-item">
+  <div class="todo-check"></div> <span class="">10 minutes meditation</span>
+  <div class="todo-delete"></div>
+</div>
+`;

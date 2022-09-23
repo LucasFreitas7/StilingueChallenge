@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoBar.vue teste de snapshot 1`] = `
+<div class="list-container shadow">
+  <div class="btn-container"><span class="left-items">3 items left</span>
+    <div class="btn-filters"><a class="active">All</a> <a class="">Active</a> <a class="">Completed</a></div>
+    <div class="btn-clear"><a>Clear completed</a></div>
+  </div>
+  <div class="btn-container-mobile">
+    <div class="btn-clear-mobile"><a>Clear completed</a></div>
+  </div>
+</div>
+`;

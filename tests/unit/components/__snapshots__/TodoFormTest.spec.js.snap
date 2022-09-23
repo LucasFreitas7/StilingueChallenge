@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoBar.vue teste de snapshot 1`] = `
+<div class="form-container">
+  <div class="todo-check"></div> <input type="text" class="shadow">
+</div>
+`;
