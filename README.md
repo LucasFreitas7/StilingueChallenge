@@ -1,4 +1,4 @@
-# todo-app
+# Desafio ToDo App
 
 ## Instalar o projeto
 ```
